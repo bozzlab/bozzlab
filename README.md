@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/-Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/-Dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MQL4-blue.svg?&style=flat-square&logo=MQL4"/> | <img src="https://img.shields.io/badge/-Jinja-white.svg?&style=flat-square&logo=JINJA&logoColor=black"/>
+<img src="https://img.shields.io/badge/-MQL4-blue.svg?&style=flat-square&logo=MQL4"/> 
+<img src="https://img.shields.io/badge/-Jinja-white.svg?&style=flat-square&logo=JINJA&logoColor=black"/>
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=fflat-square&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bash/Shell%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?&style=flat-square&logo=lua&logoColor=white"/>  
