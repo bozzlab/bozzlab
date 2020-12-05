@@ -3,6 +3,7 @@
 
 - 😎 My name is Peem Srinikorn, (Bozz)
 - 👨‍💻 Software / Data Engineer, Google Cloud Certified 
+- 👨‍🚀 Back-end / Cloud Native / Data Engineering / DevOps
 - 🇹🇭 Bangkok,TH
 
 
