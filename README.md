@@ -13,7 +13,7 @@
 
 #### 🕵🏻  Contact me?
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bozzlab/)](https://github.com/bozzlab/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-srinikorn/)](https://www.linkedin.com/in/p-srinikorn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/peem-srinikorn/)](https://www.linkedin.com/in/p-srinikorn)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/bozzsrinikorn)](https://www.hackerrank.com/bozzsrinikorn)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://p-srinikorn.medium.com/)](https://p-srinikorn.medium.com/)
 
