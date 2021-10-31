@@ -1,7 +1,7 @@
 ### Hi there, I'm [Bozz!](https://bozzlab.github.io) 😎     
 
 
-- 😎 My name is Peem Srinikorn, (Bozz)
+- 😎 Bozz
 - 👨‍💻 Software / Data Engineer, Google Cloud Certified 
 - 👨‍🚀 Back-end / Data Engineering/Pipeline / DevOps/MLOps/GitOps CI/CD
 - 🇹🇭 Bangkok,TH
