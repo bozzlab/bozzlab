@@ -2,8 +2,8 @@
 
 
 - 😎 Bozz
-- 👨‍💻 Software / Data Engineer, Google Cloud Certified 
-- 👨‍🚀 Back-end / Data Engineering/Pipeline / DevOps/MLOps/GitOps CI/CD
+- 👨‍💻 Data/Software Engineer, Google Cloud Certified, AWS Certified
+- 👨‍🚀 Back-end, Data Engineering, Git/MLOps
 - 🇹🇭 Bangkok,TH
 
 
