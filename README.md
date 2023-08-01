@@ -68,9 +68,3 @@
 <img src="https://img.shields.io/badge/-Trello-gray.svg?&style=flat-square&logo=trello&logoColor=blue"/>  
 <img src="https://img.shields.io/badge/-Slack-gray.svg?&style=flat-square&logo=slack&logoColor=red"/>  
 </p>
-
- 
-#### 🎮 GitHub Stats
-<p align="left" >  
-  <img  src="https://github-readme-stats.vercel.app/api?username=bozzlab&&show_icons=true&theme=radical&icon_color=39ff14&title_color=39ff14&text_color=fff"/>
-</p>
